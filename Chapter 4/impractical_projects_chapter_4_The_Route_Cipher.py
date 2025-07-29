@@ -44,6 +44,8 @@ for i in range(len(key_possibilities)):
         matrix.append(matrix_raw[col-1])
         
     print(matrix)
+
+
     
 
     
